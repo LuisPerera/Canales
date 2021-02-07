@@ -1,9 +1,9 @@
 #EXTM3U
 #EXTINF:-1 tvg-country="MX" tvg-id="" tvg-logo="https://onceninasyninos.tv/logo-on-2/" group-title="NACIONALES", ONCE NINOS (CLASES)
 http://ipeteve.com/php/t121220/tp.php?c=3315&p=3&k=srregio&f=.m3u8 
-#EXTINF:-1 tvg-country="MX" tvg-id="" tvg-logo="" group-title="NACIONALES", AZTECA 7.3 (CLASES)
+#EXTINF:-1 tvg-country="MX" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/32/Azteca_7_2019-2.png/revision/latest/scale-to-width-down/213?cb=20191119024732" group-title="NACIONALES", AZTECA 7.3 (CLASES)
 http://ipeteve.com/php/t121220/tp.php?c=3316&p=3&k=srregio&f=.m3u8 
-#EXTINF:-1 tvg-country="MX" tvg-id="" tvg-logo="" group-title="NACIONALES", AZTECA UNO HD
+#EXTINF:-1 tvg-country="MX" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/Azteca_UNO_logo_2020.webp" group-title="NACIONALES", AZTECA UNO HD
 http://ipeteve.com/php/t121220/tp.php?c=7&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 tvg-country="MX" tvg-id="" tvg-logo="" group-title="NACIONALES", AZ CLIC HD
 http://ipeteve.com/php/t121220/tp.php?c=11&p=3&k=srregio&f=.m3u8 
@@ -17,7 +17,7 @@ http://ipeteve.com/php/t121220/tp.php?c=21&p=3&k=srregio&f=.m3u8
 http://ipeteve.com/php/t121220/tp.php?c=24&p=3&k=srregio&f=.m3u8 
 #EXTINF:-1 tvg-country="MX" tvg-id="" tvg-logo="" group-title="NACIONALES", ONCE
 http://ipeteve.com/php/t121220/tp.php?c=25&p=3&k=srregio&f=.m3u8 
-#EXTINF:-1 tvg-country="MX" tvg-id="" tvg-logo="" group-title="NACIONALES", AZTECA UNO
+#EXTINF:-1 tvg-country="MX" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/Azteca_UNO_logo_2020.webp" group-title="NACIONALES", AZTECA UNO
 http://ipeteve.com/php/t121220/tp.php?c=27&p=3&k=srregio&f=.m3u8 
 #EXTINF:-1 tvg-country="MX" tvg-id="" tvg-logo="" group-title="NACIONALES", TELEFORMULA SD
 http://ipeteve.com/php/t121220/tp.php?c=32&p=3&k=srregio&f=.m3u8 
