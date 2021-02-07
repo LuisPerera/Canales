@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-country="MX" tvg-id="" tvg-logo="" group-title="NACIONALES", ONCE NINOS (CLASES)
+#EXTINF:-1 tvg-country="MX" tvg-id="" tvg-logo="https://onceninasyninos.tv/logo-on-2/" group-title="NACIONALES", ONCE NINOS (CLASES)
 http://ipeteve.com/php/t121220/tp.php?c=3315&p=3&k=srregio&f=.m3u8 
 #EXTINF:-1 tvg-country="MX" tvg-id="" tvg-logo="" group-title="NACIONALES", AZTECA 7.3 (CLASES)
 http://ipeteve.com/php/t121220/tp.php?c=3316&p=3&k=srregio&f=.m3u8 
